@@ -22,7 +22,7 @@
 --                  46500.00, '303-999-0000');
 
 -- INSERT INTO DB1 (EmployeeID, SSN, FName, LName, Position, Salary, PhoneNum)
---                 VALUES (301, '555-55-5555', 'firstname', 'lastname', 
+--                 VALUES (301, '555-55-5555', 'Torriano', 'Hill', 
 --                 'Manager', 36900.00, '555-555-5555');
 
 -- SELECT * FROM DB1;
@@ -35,5 +35,9 @@
 
 SELECT EmployeeID, FName, LName, Position, Salary 
         FROM DB1 WHERE Salary > 30000 AND Salary < 45000;
+
+
+
+
 
 /**/
