@@ -43,5 +43,5 @@ If you have any questions or issues, please open an issue in this repository or 
 
 ## Author
 
-email: [muchendumaina66@gmail.com]
+email: [muchendumaina66@gmail.com] <br/>
 github: [@steeeved]
